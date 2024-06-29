@@ -1,4 +1,4 @@
-body{
+body {
   background-color: #242424;
 }
 
@@ -24,7 +24,7 @@ body{
   margin: 40px;
 }
 
-.login__header p{
+.login__header p {
   font-size: 2em;
   color: #ffffff;
 }
